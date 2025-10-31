@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RootscanR"]
+	path = RootscanR
+	url = https://github.com/cran/RootscanR
 [submodule "poweRbal"]
 	path = poweRbal
 	url = https://github.com/cran/poweRbal
