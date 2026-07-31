@@ -8,6 +8,3 @@
 [submodule "poweRbal"]
 	path = poweRbal
 	url = https://github.com/cran/poweRbal
-[submodule "treeDbalance"]
-	path = treeDbalance
-	url = https://github.com/cran/treeDbalance
